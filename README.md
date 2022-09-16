@@ -1,2 +1,2 @@
 ﻿# android-layout-part-a
-![Screenshot](gambar/gambar.jpeg)
+![Screenshot](images/gambar.jpeg)
